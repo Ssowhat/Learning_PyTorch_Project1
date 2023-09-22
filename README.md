@@ -1,2 +1,2 @@
-# ceshi
-这是一个测试
+# Project1
+在学习完b站up主小土堆的pytorch后建立的第一个CNN
